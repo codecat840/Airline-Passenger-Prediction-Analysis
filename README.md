@@ -8,16 +8,20 @@ influence the airline's market position and reputation.
 
 ⚙️ Technologies Used
 Python
+  
   Pandas, NumPy – Data manipulation and analysis
+  
   Matplotlib, Seaborn, Plotly – Data visualization
+  
   Scikit-learn – Machine learning models
+
 Google colab notebook - Interactive data analysis
 
 🧠 Models Implemented
-KNN
-Decision Tree Regressor
-SVM
-Random Forest Regressor
+- KNN
+- Decision Tree Regressor
+- SVM
+- Random Forest Regressor
 
 Best Performing Model: SVM
 

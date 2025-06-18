@@ -23,4 +23,4 @@ Best Performing Model: SVM
 
 🧑‍💻 Author - Purabi Banerjee
 
-📄LinkedIn profile - 
+📄LinkedIn profile - https://www.linkedin.com/in/purabi-banerjee-784929351
